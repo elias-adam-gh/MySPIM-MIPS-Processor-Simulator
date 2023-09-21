@@ -1,7 +1,5 @@
 # mySPIM
-  Computer Logic and Organization (CDA3103C) Spring 2017 Project
-  
-Author/Team member(s): Haerunnisa Dewindita
+  Computer Logic and Organization (CDA3103C)
 
 MySPIM is a mini processor simulator that demonstrates some of the functions of a MIPS processor. MySPIM reads in MIPS machine
 codes from an .asc file and executes the instructions, as well as providing several commands to showcase the process. This simulator 
